@@ -10,6 +10,6 @@ namespace gradebook
         {
             grades.Add(grade); 
         }
-        List<double> grades;
+        private List<double> grades;
     }
 }
